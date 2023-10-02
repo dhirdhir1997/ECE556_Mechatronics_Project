@@ -11,9 +11,9 @@ perform the following tasks:
 1. Path tracking - Implement a PID control for the UV to move from point A with coordinate (𝑥𝐴, 𝑦𝐴) to
 Point B (𝑥𝐵 , 𝑦𝐵) as fast as possible by tracking a given path 𝑟;
 
-3. Parking - Park as close as possible to the block (Point B) without touching it;
-4. 
-5. Platooning - The objective of this task is to implement a PID controller to regulate the UV speed to follow a moving UV in the
+2. Parking - Park as close as possible to the block (Point B) without touching it;
+ 
+3. Platooning - The objective of this task is to implement a PID controller to regulate the UV speed to follow a moving UV in the
 front and maintain a constant distance
 
 ![Screenshot 2023-10-02 174517](https://github.com/dhirdhir1997/ECE556_Mechatronics_Project/assets/119910232/15d2a9f1-f049-455c-a984-e8ee74e77359)
