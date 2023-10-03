@@ -1,5 +1,5 @@
 # ECE556_Mechatronics_Project
-Built a robot capable of parking, platooning and path tracking using EV3 and MATLAB
+Built a robot (UV) capable of parking, platooning and path tracking using EV3 and MATLAB
 
 The objective of this task is to design and implement a PID controller for a Lego Mindstorms EV3 Unmanned Vehicle (UV) for path tracking and parking. Figure 1 shows an example of a path r with a block placed at the end of the path.
 
